@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Annaqikun
-- 👀 I’m interested in balls
-- 🌱 I’m currently learning balls
-- 💞️ I’m looking to collaborate on balls
-- 📫 How to reach me balls
+- Personal Space where i mess around with codes in my free time
 
 <!---
 Annaqikun/Annaqikun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
